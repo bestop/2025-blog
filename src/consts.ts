@@ -7,7 +7,7 @@ export const CARD_SPACING_SM = 24
  * GitHub 仓库配置
  */
 export const GITHUB_CONFIG = {
-	OWNER: process.env.NEXT_PUBLIC_GITHUB_OWNER || 'Joe',
+	OWNER: process.env.NEXT_PUBLIC_GITHUB_OWNER || 'bestop',
 	REPO: process.env.NEXT_PUBLIC_GITHUB_REPO || '2025-blog',
 	BRANCH: process.env.NEXT_PUBLIC_GITHUB_BRANCH || 'main',
 	APP_ID: process.env.NEXT_PUBLIC_GITHUB_APP_ID || '2371838'
